@@ -10,6 +10,7 @@ Find Posmo One for Android at: https://play.google.com/store/apps/details?id=io.
 
 
 ## Posmo One on the Web
+Once you use Posmo One, you can discover all your movements at https://posmo.datamap.io.
 ![Posmo One on the Web](https://github.com/posmocoop/posmo_one/blob/master/posmo_one_on_the_web.png)
 
 
